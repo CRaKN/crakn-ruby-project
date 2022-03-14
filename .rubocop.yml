@@ -24,7 +24,6 @@ Lint/EmptyClass:
 Metrics/BlockLength:
   Exclude:
     - spec/**/*_spec.rb
-    - snfoil-policy.gemspec
 
 # ================ Style ================
 Style/Documentation:
